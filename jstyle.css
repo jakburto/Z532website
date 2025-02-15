@@ -1,0 +1,50 @@
+﻿body {
+    background-color: darksalmon;
+    font-family: 'Cambo',Helveltica, serif;
+    font-size: 1em;
+}
+h1 {
+    font-size: 2.5em;
+    width:300px;
+    padding: 20px 10px 50px 10px;
+    border: 7px groove navy;
+    margin:auto;
+    text-align:center;
+    color:darkcyan;
+}
+
+h2 {
+    font-size: 1.75;
+    padding: 20px;
+    margin:0px;
+    color:sienna;
+}
+pre {
+    font-size: 1.0625em;
+    line-height:24px;
+}
+
+ol {
+    color:tomato;
+
+}
+
+a:link {
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration:wavy;
+    color:chartreuse;
+}
+img {
+    border-radius: 10px;
+}
+footer {
+    background-color:ghostwhite;
+    text-align:center;
+    font-size: 1.5em;
+    padding:2px 5px 2px 5px;
+    margin:10px;
+    border-style:outset;
+}
